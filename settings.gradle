@@ -9,4 +9,4 @@
  */
 
 rootProject.name = 'connect'
-include('lib')
+include(rootProject.name)
